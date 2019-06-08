@@ -1,0 +1,32 @@
+# Python
+*.egg-info
+*.egg
+*.pyc
+.cache
+.eggs
+build
+dist
+
+# Translations
+*.mo
+
+# Testing
+.tox
+
+# Vagrant
+.vagrant
+.bash_history
+
+html
+
+# swp
+*.swp
+
+# taglist
+tags
+
+#swo
+*.swo
+
+**/__pycache__
+
